@@ -1,4 +1,7 @@
+// https://blog.logrocket.com/how-to-use-typescript-react-tutorial-examples/
+
 import React from 'react';
+import FirstComponent from "./components/FirstComponent";
 import logo from './logo.svg';
 import './App.css';
 
@@ -18,9 +21,10 @@ function App() {
         >
           Learn React
         </a>
+        <h1>Hello, Welcome to React and TypeScript</h1>
+        <FirstComponent />
       </header>
-    </div>
-  );
+    </div>  );
 }
 
 export default App;
