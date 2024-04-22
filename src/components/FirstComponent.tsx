@@ -6,7 +6,7 @@ const FirstComponent: React.FC<{}> = () => {
       <h3>A Simple React Component Example with Typescript</h3>
       <div>
       </div>
-      <p>For more info on Logrocket, please visit <a href="https://logrocket.com">https://logrocket.com</a></p>
+      <p>Baby steps for setting up a Personal Finance site</p>
     </div>
   );
 };
